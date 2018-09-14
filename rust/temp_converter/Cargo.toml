@@ -1,0 +1,6 @@
+[package]
+name = "temp_converter"
+version = "0.1.0"
+authors = ["Robert Smargiassi <rps52@drexel.edu>"]
+
+[dependencies]
